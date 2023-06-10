@@ -13,6 +13,7 @@
 - [Pytorch+DL] https://github.com/ShusenTang/Dive-into-DL-PyTorch
 - [全材料整理] https://github.com/Mikoto10032/DeepLearning
 - [机器学习原理] https://github.com/shunliz/Machine-Learning
+- [李沐大神的视频专栏] https://github.com/mli/paper-reading
 
 5. 科研，阅读和协作
 - [适合CS新生] https://github.com/qiyuangong/How_to_Search_and_Read_a_Paper 建议必读
