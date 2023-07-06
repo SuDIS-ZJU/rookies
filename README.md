@@ -23,9 +23,9 @@
 
 ## 阅读训练
 
-1. 每位同学在Github Organization内建立自己的readling-list项目，命名为reading-list-[姓名拼写首字母]，如张三同学的repo为reading-list-zs
+1. 每位同学在Github Organization内建立自己的readling-list项目，命名为reading-list-{姓名拼写首字母+年级}，如23级研究生张三同学的repo为reading-list-zs23
 2. 以markdown形式在readme中记录自己的阅读条目和进度，一个比较好的参考：https://github.com/zhongpeixiang/AI-NLP-Paper-Readings
-3. 论文阅读范畴和质量标准：来自数据库领域、机器学习领域、数据挖掘和信息检索领域、自然语言/图像/时空等方向的优秀论文，精读论文应来自CCF-A/B(https://www.ccf.org.cn/Academic_Evaluation/By_category/)、IEEE/ACM Trans、Nature/Science相关子刊
+3. 论文阅读范畴和质量标准：来自数据库领域、机器学习领域、数据挖掘和信息检索领域、自然语言/图像/时空等方向的优秀论文，精读论文应来自[CCF列表 A类B类会议和期刊](https://www.ccf.org.cn/Academic_Evaluation/By_category/)、知名会议如ICLR等、IEEE/ACM Trans、Nature/Science相关子刊
 4. 论文阅读速度标准：硕士生同学应做到每周精读1-2篇及粗读3-5篇；博士生同学应做到每周精读2-3篇及粗读5-7篇；筛选论文不算入粗读论文
 5. 值得精读的论文：有开源实现、有较高引用数、方向较为匹配，不确定可以来问我
 6. 定期开展seminar交流，同学们依次做presentation和QA，加强该方面技能的训练
