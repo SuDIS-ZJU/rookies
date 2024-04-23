@@ -5,17 +5,20 @@
 1. 熟练掌握Git技巧，和使用Github搜索代码和资料的能力（必备技能）；
 
 2. 熟练掌握Python编码和工具栈（必备技能）；
+  - https://pytorch.org/tutorials/
 
-3. 学习Machine Learning/Deep Learning的相关基础知识，有两门在线课程需要去跟一下（必备技能）：
-- [Classification and Regression] https://www.coursera.org/learn/machine-learning?irclickid=UNMVRMV4txyNTQsQlh0EeyfHUkAQGYUWWQAP2w0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359989&utm_content=b2c
-- [Deep Learning] https://www.coursera.org/specializations/deep-learning?irclickid=UNMVRMV4txyNTQsQlh0EeyfHUkAQGYTfWQAP2w0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359989&utm_content=b2c
+3. 学习Machine Learning/Deep Learning的相关基础知识（必备技能，3.1必选，3.2-3.4选一）：
+  - 3.1 [Classification and Regression] https://www.coursera.org/learn/machine-learning?irclickid=UNMVRMV4txyNTQsQlh0EeyfHUkAQGYUWWQAP2w0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359989&utm_content=b2c https://www.bilibili.com/video/BV1ZB4y1s7QT/?spm_id_from=333.337.search-card.all.click&vd_source=c92fc244f6b5a1a8e14577f8fc8605e8
+  - 3.2 [Deep Learning] https://www.coursera.org/specializations/deep-learning?irclickid=UNMVRMV4txyNTQsQlh0EeyfHUkAQGYTfWQAP2w0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=1359989&utm_content=b2c https://www.bilibili.com/video/BV1qP411e7GJ/?spm_id_from=333.337.search-card.all.click&vd_source=c92fc244f6b5a1a8e14577f8fc8605e8
+  - 3.3 [Stanford 224n NLP方面] https://web.stanford.edu/class/cs224n/ https://www.bilibili.com/video/BV1jt421L7ui/?spm_id_from=333.337.search-card.all.click
+  - 3.4 [Stanford 231n CV方面] https://web.stanford.edu/class/cs224n/ https://www.bilibili.com/video/BV1nJ411z7fe/?vd_source=c92fc244f6b5a1a8e14577f8fc8605e8
 
 4. 一些其他非常重要的材料，看得越多越好（扩展技能）：
-- [QXP神经网络与深度学习] https://nndl.github.io/ 建议必读
+- [QXP神经网络与深度学习] https://nndl.github.io/
 - [Pytorch+DL] https://github.com/ShusenTang/Dive-into-DL-PyTorch
 - [全材料整理] https://github.com/Mikoto10032/DeepLearning
 - [机器学习原理] https://github.com/shunliz/Machine-Learning
-- [李沐大神的视频专栏] https://github.com/mli/paper-reading
+- [李沐大神的视频专栏] https://github.com/mli/paper-reading 推荐，特别是一些经典论文的解读
 
 5. 科研，阅读和协作
 - [适合CS新生] https://github.com/qiyuangong/How_to_Search_and_Read_a_Paper 建议必读
