@@ -25,6 +25,7 @@
 - [How to read a computer science research paper?] https://www.youtube.com/watch?v=foflxVMuF6A 建议必读
 - [QXP如何写论文] https://xpqiu.github.io/slides/20181019-PaperWriting.pdf
 - [科研工具] https://github.com/bighuang624/AI-research-tools
+- [Latex和Overleaf] https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
 
 ## 阅读训练
 
